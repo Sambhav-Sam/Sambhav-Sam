@@ -21,9 +21,3 @@ Hello there! I'm Sambhav Sharma, currently in the final year at Motilal Nehru Na
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sambhav-Sam&theme=vision-friendly-dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav-Sam&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔝 Top Contributed Repositories:
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Sambhav-Sam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sambhav-Sam&icon=5&color=12)](https://visitcount.itsvg.in)
