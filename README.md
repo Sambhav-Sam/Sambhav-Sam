@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-Hello there! I'm Sambhav Sharma, currently in the final year at Motilal Nehru National Institute of Technology (MNNIT) Allahabad, Prayagraj. Enthusiastic about development, particularly the art of sculpting captivating website frontends. I firmly believe in the transformative power of design to craft immersive user experiences.
+Hello there! I'm Sambhav Sharma, currently in the final year at Motilal Nehru National Institute of Technology (MNNIT) Allahabad, Prayagraj. I am passionate about solving real-world problems through innovative technology. My journey in software development has allowed me to work on impactful projects and challenges. I’m seeking to contribute my technical expertise and passion for innovation to roles that involve building scalable, user-centric solutions while continuously learning and growing in dynamic, high-impact environments. Let’s connect and collaborate to create the future of technology.
 
 ## 🛠️ Tech Stack:
 
